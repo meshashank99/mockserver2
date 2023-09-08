@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "email": "d@gmail.com",
+      "password": "d@123",
+      "fullName": "d",
+      "id": 1
+    },
+    {
+      "fullName": "aaaaaaaa",
+      "email": "admin@gmail.com",
+      "password": "aaaaaaaaaa",
+      "id": 2
+    }
+  ],
+  "expenses": [
+    {
+      "transactionAmount": "11111",
+      "transactionCategory": "Salary",
+      "transactionDate": "2023-09-16",
+      "transactionType": "Income",
+      "id": 1
+    }
+  ]
+}
